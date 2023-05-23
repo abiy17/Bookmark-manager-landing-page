@@ -1,0 +1,40 @@
+.sort{
+    display: flex;
+    gap: 4em;
+    
+}
+.min-sort{
+    margin: auto;
+    border-radius: 10px;
+    width: 35em;
+    box-shadow: 2px 2px 20px 2px whitesmoke;
+}
+#div{
+    height: 17em;
+}
+.min-sort h2,p{
+    margin-bottom: 2em
+}
+#p{
+    margin: auto;
+    margin-top: 3.5em;
+    text-align: center;
+    width: 30em;
+}
+button{
+    width: 7em;
+    margin-right: 3em;
+    height: 3.5em;
+    border: none;
+    color: white;
+    font-weight: bold;
+    background-color: rgba(0, 0, 255, 0.712);
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    opacity: 0.7;
+}
+button:active{
+    opacity: 0.4;
+}

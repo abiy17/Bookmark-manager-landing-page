@@ -1,0 +1,52 @@
+
+.quiz{
+    margin: auto;
+    width: 35em;
+    height: 20em;
+    background-color: black;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 10em;
+    color: white;
+}
+.question-section{
+    margin-left: 20px;
+    margin-top: 3em;
+}
+button{
+    width: 12em;
+    height: 3.6em;
+    border: none;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 5px;
+}
+.score{
+    margin: auto;
+    width: 35em;
+    height: 20em;
+    background-color: black;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 10em;
+    color: white;
+}
+.score .h2{
+   margin: auto;
+}
+button:hover{
+    opacity: 0.4;
+}
+.h2{
+    width: 14em;
+}
+button:active{
+    opacity: 0.7;
+}
+.btns{
+    margin-top: 2.5em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}

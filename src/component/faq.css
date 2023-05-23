@@ -1,0 +1,47 @@
+.faq{
+    margin-top: 7em;
+    width: 35em;
+    height: 50em;
+}
+.faq p{
+    margin-top: 1em;
+}
+.question{
+    margin-bottom: 3em;
+}
+#answer{
+    margin-top: 1em;
+    display: none;
+}
+#hide-answer{
+    margin-top: 1em;
+    display: block;
+}
+#answer2{
+    margin-top: 1em;
+    display: none;
+}
+#hide-answer2{
+    margin-top: 1em;
+    display: block;
+}
+#answer3{
+    margin-top: 1em;
+    display: none;
+}
+#hide-answer3{
+    margin-top: 1em;
+    display: block;
+}
+#answer4{
+    margin-top: 1em;
+    display: none;
+}
+#hide-answer4{
+    margin-top: 1em;
+    display: block;
+}
+svg{
+
+    float: right;
+}

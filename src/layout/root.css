@@ -1,0 +1,12 @@
+.navlinks{
+    display: flex;
+    justify-content: center;
+    gap: 5em;
+    margin-bottom: 5em;
+    text-decoration: none;
+}
+.navlink{
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
